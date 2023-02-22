@@ -1,2 +1,2 @@
 # Game-Bet-Win
-Đồ án cuối kì 1-HCMUS
+Đồ án thực hành giới thiệu trí tuệ nhân tạo
